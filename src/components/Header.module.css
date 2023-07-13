@@ -1,0 +1,34 @@
+.headercss {
+    display: flex;
+    justify-content: space-between;
+    border-bottom-style:solid;
+   border-color: rgb(0, 0, 0);
+    
+}
+.navcss{
+    display: block;
+    flex-direction: row;
+    width: 60%;
+    align-self: center;
+ }
+ .licss{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content:space-around;
+  
+  
+ 
+ }
+ a{
+    text-decoration: none;
+    color:rgb(26, 3, 38);
+    font-size: x-large;
+ }
+ .footercss{
+   border-top-style:solid;
+   border-color: rgb(0, 0, 0);
+
+   
+ }
